@@ -1,27 +1,6 @@
 #include <iostream>
 using namespace std;
 
-/*void Linearsearch (int Arr[], int size, int matching_number)
-{
-
-int Store ;
-
-    for (int i=0; i<size; i++)
-    {
-
-        if (Arr[i]==matching_number)
-        {
-         Store=   i;
-        }
-        cout<<"The Position "<<Store;
-
-    }
-
-
-
-}*/
-
-
 int linear_Ser(int Arr[], int size,int num){
 
 
